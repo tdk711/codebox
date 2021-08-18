@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1515258142 source:c:\users\samsung\documents\code;;blocks\gamma\mw2\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+
